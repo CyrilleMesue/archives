@@ -3,12 +3,12 @@
     "title": "Nihil blanditiis at in nihil autem",
     "image": "../assets/img/blog/blog-recent-1.jpg",
     "date": "April 1, 2020",
-    "blogPath": "blog-details.html"
+    "blogPath": "../blog/blog-details.html"
   },
   {
     "title": "Nihil blanditiis at in nihil autem",
     "image": "../assets/img/blog/blog-recent-1.jpg",
     "date": "April 1, 2020",
-    "blogPath": "blog-details.html"
+    "blogPath": "../blog/blog-details.html"
   }
 ]
