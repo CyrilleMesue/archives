@@ -1,14 +1,8 @@
 [
   {
-    "title": "Nihil blanditiis at in nihil autem",
-    "image": "../assets/img/blog/blog-recent-1.jpg",
-    "date": "April 1, 2020",
-    "blogPath": "../blog/blog-details.html"
-  },
-  {
-    "title": "Nihil blanditiis at in nihil autem",
-    "image": "../assets/img/blog/blog-recent-1.jpg",
-    "date": "April 1, 2020",
-    "blogPath": "../blog/blog-details.html"
+    "title": "Exploring Essential Data Types and Formats in Bioinformatics: Origins and Applications",
+    "image": "../assets/img/blog/blog1/cover.jpg",
+    "date": "April 23, 2024",
+    "blogPath": "../blog/blog1-file-types-details.html"
   }
 ]
