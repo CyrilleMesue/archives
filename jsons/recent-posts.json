@@ -4,5 +4,12 @@
     "image": "../assets/img/blog/blog1/cover.jpg",
     "date": "April 23, 2024",
     "blogPath": "../blog/blog1-file-types-details.html"
+  },
+  
+  {
+    "title": "Exploring Essential Data Types and Formats in Bioinformatics: Origins and Applications",
+    "image": "../assets/img/blog/blog1/cover.jpg",
+    "date": "April 23, 2024",
+    "blogPath": "../blog/blog1-file-types-details.html"
   }
 ]
