@@ -1,5 +1,11 @@
 [
   {
+    "title": "NGS Data Trimming and Filtering with Trimmomatic",
+    "image": "../assets/img/blog/blog3/cover.jpg",
+    "date": "April 30, 2024",
+    "blogPath": "../blog/blog4-file-types-details.html"
+  },
+  {
     "title": "Quality Control with MultiQC",
     "image": "../assets/img/blog/blog3/cover.jpg",
     "date": "April 30, 2024",
