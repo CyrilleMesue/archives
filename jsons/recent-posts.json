@@ -1,5 +1,11 @@
 [
   {
+    "title": "Automating RNA-Seq Downstream Analysis with DESeq2 and ClusterProfiler",
+    "image": "../assets/img/blog/blog6/cover.png",
+    "date": "May 19, 2024",
+    "blogPath": "../blog/blog6-file-types-details.html"
+  },
+  {
     "title": "A Comprehensive RNA-Seq Upstream Pipeline in Bash with FastQC, MultiQC, Trimmomatic, HISAT2, SAMtools, and FeatureCounts",
     "image": "../assets/img/blog/blog5/cover.jpg",
     "date": "May 06, 2024",
