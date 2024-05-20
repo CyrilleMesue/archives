@@ -29,7 +29,7 @@ for SRR in "${SRR_LIST[@]}"; do
     echo "Downloading and extracting reads for $SRR..."
 
     # Extract 5000 reads from the SRA file
-    fastq-dump --split-files -X 5000 $SRR -O downloads/reads
+    fastq-dump --split-files -X 5000 $SRR -O data/reads
 done
 
 echo "Download and extraction complete."
