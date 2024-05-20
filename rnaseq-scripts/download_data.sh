@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Create a folder named "Reads" if it doesn't exist
-mkdir -p downloads downloads/reads
+mkdir -p data data/reads
 
 # Array of SRR accession numbers
 SRR_LIST=(
