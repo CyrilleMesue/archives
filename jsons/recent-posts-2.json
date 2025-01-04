@@ -1,29 +1,19 @@
 {
   "posts": [
     {
-      "title": "Nihil blanditiis at in nihil autem",
-      "link": "blog-details.html",
-      "date": "2020-01-01"
+      "title": "Why Choose HBSN Distribution Network? The Freshness, Sustainability, and Impact Difference",
+      "link": "../blogs/blog-3.html",
+      "date": "2025-04-01"
     },
     {
-      "title": "Quidem autem et impedit",
-      "link": "blog-details.html",
-      "date": "2020-01-01"
+      "title": "The Pillars of HBSN: Vision, Mission, and Values Driving Our Success",
+      "link": "../blogs/blog-2.html",
+      "date": "2025-04-01"
     },
     {
-      "title": "Id quia et et ut maxime similique occaecati ut",
-      "link": "blog-details.html",
-      "date": "2020-01-01"
-    },
-    {
-      "title": "Laborum corporis quo dara net para",
-      "link": "blog-details.html",
-      "date": "2020-01-01"
-    },
-    {
-      "title": "Et dolores corrupti quae illo quod dolor",
-      "link": "blog-details.html",
-      "date": "2020-01-01"
+      "title": "HBSN Distribution Network: Cultivating Quality and Community from Farm to Table",
+      "link": "../blogs/blog-1.html",
+      "date": "2025-04-01"
     }
   ]
 }
